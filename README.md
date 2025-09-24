@@ -11,9 +11,8 @@ With our platform, you can:
 - Quickly review and rate applications with our user-friendly interface
 - Eliminate the need for paper storage (saving trees and the environment)
 
-Built using the latest technologies like HTML, CSS, JavaScript, ReactJS, MERN Stack, MongoDB, ExpressJS, and NodeJS, our platform offers a robust and efficient solution for internship management. So why not give it a try and see for yourself?
 
-<h1>Implementation Screenshots:</h1>
+<!-- <h1>Implementation Screenshots:</h1>
 
 <img src="https://github.com/ZeroNP/IMS/blob/master/Screenshots/IMS-06-00.png" alt="imsscreenshot" />
 <img src="https://github.com/ZeroNP/IMS/blob/master/Screenshots/IMS-03-33.png" alt="imsscreenshot" />
@@ -35,4 +34,4 @@ Built using the latest technologies like HTML, CSS, JavaScript, ReactJS, MERN St
 <img src="https://github.com/ZeroNP/IMS/blob/master/Screenshots/IMS-05-35.png" alt="imsscreenshot" />
 <img src="https://github.com/ZeroNP/IMS/blob/master/Screenshots/IMS-05-41.png" alt="imsscreenshot" />
 <img src="https://github.com/ZeroNP/IMS/blob/master/Screenshots/IMS-06-17.png" alt="imsscreenshot" />
-<img src="https://github.com/ZeroNP/IMS/blob/master/Screenshots/IMS-06-21.png" alt="imsscreenshot" />
+<img src="https://github.com/ZeroNP/IMS/blob/master/Screenshots/IMS-06-21.png" alt="imsscreenshot" /> -->
